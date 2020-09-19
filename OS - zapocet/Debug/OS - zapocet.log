@@ -1,0 +1,5 @@
+﻿cl : příkazový řádek warning D9025: toto: /sdl se přepisuje tímto: /GS-
+  os1_canvas_asm.c
+c:\users\lenovo\source\repos\os - zapocet\os - zapocet\os1_canvas_asm.c(275): warning C4102: second_and_cond: neodkazovaná jmenovka
+os1_canvas_asm.obj : warning LNK4075: /EDITANDCONTINUE se ignoruje kvůli specifikaci /INCREMENTAL:NO.
+  OS - zapocet.vcxproj -> C:\Users\Lenovo\source\repos\OS - zapocet\Debug\OS - zapocet.exe
